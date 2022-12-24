@@ -1,0 +1,45 @@
+ npm create vite@latest .
+√ Select a framework: » React
+√ Select a variant: » JavaScript
+
+Scaffolding project in D:\repos\react-vite-practice-project-2...
+
+Done. Now run:
+
+  npm install
+  npm run dev
+
+ npm install
+
+added 82 packages, and audited 83 packages in 4m8 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+ npm run dev
+
+> react-vite-practice-project-2@0.0.0 dev
+> vite
+
+  VITE v4.0.3  ready in 1438 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h to show help
+ nvim .
+ npm install -D tailwindcss postcss autoprefixer
+
+added 56 packages, and audited 139 packages in 1m20 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+ npm tailwindcss init -p
+Unknown command: "tailwindcss"To see a list of supported npm commands, run:
+  npm help
+ npx tailwindcss init -p
+
+Created Tailwind CSS config file: tailwind.config.cjs
+Created PostCSS config file: postcss.config.cjs
+
+   pwsh CPU: 42% | MEM: 7/17GB   4s 831ms 
+╭─ ♥ 12:11 | D:     react-vite-practice-project-2
+╰─
